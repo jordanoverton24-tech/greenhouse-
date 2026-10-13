@@ -1,0 +1,28 @@
+
+-Batch file 
+What information does this file record? It records ,time , date, sensorID, Soilmosture and SoilTemp 
+What kind of device do you think produced this file, and what in the data makes you think so? The soil monitoring probes or the garden beds. the way I know is cause of the SoilTemp_F which records the soil temp in Fahrenheit 
+What identifies one record? a single row is one sense
+How many records are there? 120
+What do you notice about how the device actually collects and stores data? they collect readings on a two-hour schedule 
+What are the advantages and disadvantages of this data format? advantages they can identify the changes within that two hour span and the disadvantges are that sensors and bed IDs repeat in every row using more space and allowing inconsistencies
+-feed 
+What information does this file record? Station-ID, Data and time , AirTemp, Humidity , WindSpeed
+What kind of device do you think produced this file, and what in the data makes you think so? I thnk a weather montioring station  was produced because its a XML station file which its recording airtemp,humdity,windSpeed in it 
+What identifies one record? there represented by XML elements inside each observation block 
+How many records are there? 144
+What do you notice about how the device actually collects and stores data? it stores the data into XML blocks and reords the measurements in 10 minute intervals 
+What are the advantages and disadvantages of this data format? advantages are humans can read it , it describes the field names very well, the disadavantges are its harder to analyze quickly in bulk and the every observation repeats
+
+
+
+
+-stream
+What information does this file record? date,time,zone,flowrategpm, pumpstatus
+What kind of device do you think produced this file, and what in the data makes you think so? A pump-montioring system and by having a watering zone, flow rate and to know if the pump is on or off makes me think this. 
+What identifies one record? the log indentifies as one record 
+how are the fields represented? by key -value pairs 
+How many records are there? 38
+What do you notice about how the device actually collects and stores data? it collects data in five mintue intervals and then sometimes the zone can change between cycles 
+What are the advantages and disadvantages of this data format? advantages are that its readable and starghtfoward , easy to process, and some disadvantages are that it repeats the same field name, and their are unexpeted field values that could make it difficult to detect 
+
