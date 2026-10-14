@@ -1,4 +1,4 @@
-Date,Time,SensorID,BedID,SoilMoisture_VWC,SoilTemp_F
+Date,Time,SensorID,BedID,SoilMoisture_VWC,SoilTemp_F,batterylevelpct
 07/15/2026,12:00 AM,SN-4821,BED-1,27.3,82.8
 07/15/2026,12:00 AM,SN-4877,BED-1,27.1,83.4
 07/15/2026,12:00 AM,SN-4902,BED-2,27.1,83.5
