@@ -1,0 +1,523 @@
+<?xml version='1.0' encoding='utf-8'?>
+<greenhouseReport>
+  <reading date="07/15/2026" time="12:00 AM" sensorId="SN-4821" bedId="BED-1">
+    <humidity unit="percent">74</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 AM" sensorId="SN-4877" bedId="BED-1">
+    <humidity unit="percent">74</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 AM" sensorId="SN-4902" bedId="BED-2">
+    <humidity unit="percent">74</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 AM" sensorId="SN-4815" bedId="BED-2">
+    <humidity unit="percent">74</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 AM" sensorId="SN-4868" bedId="BED-3">
+    <humidity unit="percent">74</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 AM" sensorId="SN-4934" bedId="BED-3">
+    <humidity unit="percent">74</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 AM" sensorId="SN-4790" bedId="BED-4">
+    <humidity unit="percent">74</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 AM" sensorId="SN-4851" bedId="BED-4">
+    <humidity unit="percent">74</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 AM" sensorId="SN-4919" bedId="BED-5">
+    <humidity unit="percent">74</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 AM" sensorId="SN-4843" bedId="BED-5">
+    <humidity unit="percent">74</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 AM" sensorId="SN-4821" bedId="BED-1">
+    <humidity unit="percent">85</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 AM" sensorId="SN-4877" bedId="BED-1">
+    <humidity unit="percent">85</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 AM" sensorId="SN-4902" bedId="BED-2">
+    <humidity unit="percent">85</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 AM" sensorId="SN-4815" bedId="BED-2">
+    <humidity unit="percent">85</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 AM" sensorId="SN-4868" bedId="BED-3">
+    <humidity unit="percent">85</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 AM" sensorId="SN-4934" bedId="BED-3">
+    <humidity unit="percent">85</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 AM" sensorId="SN-4790" bedId="BED-4">
+    <humidity unit="percent">85</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 AM" sensorId="SN-4851" bedId="BED-4">
+    <humidity unit="percent">85</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 AM" sensorId="SN-4919" bedId="BED-5">
+    <humidity unit="percent">85</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 AM" sensorId="SN-4843" bedId="BED-5">
+    <humidity unit="percent">85</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="4:00 AM" sensorId="SN-4821" bedId="BED-1">
+    <humidity unit="percent">91</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="4:00 AM" sensorId="SN-4877" bedId="BED-1">
+    <humidity unit="percent">91</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="4:00 AM" sensorId="SN-4902" bedId="BED-2">
+    <humidity unit="percent">91</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="4:00 AM" sensorId="SN-4815" bedId="BED-2">
+    <humidity unit="percent">91</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="4:00 AM" sensorId="SN-4868" bedId="BED-3">
+    <humidity unit="percent">91</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="4:00 AM" sensorId="SN-4934" bedId="BED-3">
+    <humidity unit="percent">91</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="4:00 AM" sensorId="SN-4790" bedId="BED-4">
+    <humidity unit="percent">91</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="4:00 AM" sensorId="SN-4851" bedId="BED-4">
+    <humidity unit="percent">91</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="4:00 AM" sensorId="SN-4919" bedId="BED-5">
+    <humidity unit="percent">91</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="4:00 AM" sensorId="SN-4843" bedId="BED-5">
+    <humidity unit="percent">91</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="6:00 AM" sensorId="SN-4821" bedId="BED-1">
+    <humidity unit="percent">93</humidity>
+    <irrigation zone="2" pumpStatus="on">
+      <flowRateGpm unit="gpm">4.04</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="6:00 AM" sensorId="SN-4877" bedId="BED-1">
+    <humidity unit="percent">93</humidity>
+    <irrigation zone="2" pumpStatus="on">
+      <flowRateGpm unit="gpm">4.04</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="6:00 AM" sensorId="SN-4902" bedId="BED-2">
+    <humidity unit="percent">93</humidity>
+    <irrigation zone="2" pumpStatus="on">
+      <flowRateGpm unit="gpm">4.04</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="6:00 AM" sensorId="SN-4815" bedId="BED-2">
+    <humidity unit="percent">93</humidity>
+    <irrigation zone="2" pumpStatus="on">
+      <flowRateGpm unit="gpm">4.04</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="6:00 AM" sensorId="SN-4868" bedId="BED-3">
+    <humidity unit="percent">93</humidity>
+    <irrigation zone="2" pumpStatus="on">
+      <flowRateGpm unit="gpm">4.04</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="6:00 AM" sensorId="SN-4934" bedId="BED-3">
+    <humidity unit="percent">93</humidity>
+    <irrigation zone="2" pumpStatus="on">
+      <flowRateGpm unit="gpm">4.04</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="6:00 AM" sensorId="SN-4790" bedId="BED-4">
+    <humidity unit="percent">93</humidity>
+    <irrigation zone="2" pumpStatus="on">
+      <flowRateGpm unit="gpm">4.04</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="6:00 AM" sensorId="SN-4851" bedId="BED-4">
+    <humidity unit="percent">93</humidity>
+    <irrigation zone="2" pumpStatus="on">
+      <flowRateGpm unit="gpm">4.04</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="6:00 AM" sensorId="SN-4919" bedId="BED-5">
+    <humidity unit="percent">93</humidity>
+    <irrigation zone="2" pumpStatus="on">
+      <flowRateGpm unit="gpm">4.04</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="6:00 AM" sensorId="SN-4843" bedId="BED-5">
+    <humidity unit="percent">93</humidity>
+    <irrigation zone="2" pumpStatus="on">
+      <flowRateGpm unit="gpm">4.04</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="8:00 AM" sensorId="SN-4821" bedId="BED-1">
+    <humidity unit="percent">87</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 AM" sensorId="SN-4877" bedId="BED-1">
+    <humidity unit="percent">87</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 AM" sensorId="SN-4902" bedId="BED-2">
+    <humidity unit="percent">87</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 AM" sensorId="SN-4815" bedId="BED-2">
+    <humidity unit="percent">87</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 AM" sensorId="SN-4868" bedId="BED-3">
+    <humidity unit="percent">87</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 AM" sensorId="SN-4934" bedId="BED-3">
+    <humidity unit="percent">87</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 AM" sensorId="SN-4790" bedId="BED-4">
+    <humidity unit="percent">87</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 AM" sensorId="SN-4851" bedId="BED-4">
+    <humidity unit="percent">87</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 AM" sensorId="SN-4919" bedId="BED-5">
+    <humidity unit="percent">87</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 AM" sensorId="SN-4843" bedId="BED-5">
+    <humidity unit="percent">87</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 AM" sensorId="SN-4821" bedId="BED-1">
+    <humidity unit="percent">76</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 AM" sensorId="SN-4877" bedId="BED-1">
+    <humidity unit="percent">76</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 AM" sensorId="SN-4902" bedId="BED-2">
+    <humidity unit="percent">76</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 AM" sensorId="SN-4815" bedId="BED-2">
+    <humidity unit="percent">76</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 AM" sensorId="SN-4868" bedId="BED-3">
+    <humidity unit="percent">76</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 AM" sensorId="SN-4934" bedId="BED-3">
+    <humidity unit="percent">76</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 AM" sensorId="SN-4790" bedId="BED-4">
+    <humidity unit="percent">76</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 AM" sensorId="SN-4851" bedId="BED-4">
+    <humidity unit="percent">76</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 AM" sensorId="SN-4919" bedId="BED-5">
+    <humidity unit="percent">76</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 AM" sensorId="SN-4843" bedId="BED-5">
+    <humidity unit="percent">76</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 PM" sensorId="SN-4821" bedId="BED-1">
+    <humidity unit="percent">59</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 PM" sensorId="SN-4877" bedId="BED-1">
+    <humidity unit="percent">59</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 PM" sensorId="SN-4902" bedId="BED-2">
+    <humidity unit="percent">59</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 PM" sensorId="SN-4815" bedId="BED-2">
+    <humidity unit="percent">59</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 PM" sensorId="SN-4868" bedId="BED-3">
+    <humidity unit="percent">59</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 PM" sensorId="SN-4934" bedId="BED-3">
+    <humidity unit="percent">59</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 PM" sensorId="SN-4790" bedId="BED-4">
+    <humidity unit="percent">59</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 PM" sensorId="SN-4851" bedId="BED-4">
+    <humidity unit="percent">59</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 PM" sensorId="SN-4919" bedId="BED-5">
+    <humidity unit="percent">59</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="12:00 PM" sensorId="SN-4843" bedId="BED-5">
+    <humidity unit="percent">59</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 PM" sensorId="SN-4821" bedId="BED-1">
+    <humidity unit="percent">50</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 PM" sensorId="SN-4877" bedId="BED-1">
+    <humidity unit="percent">50</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 PM" sensorId="SN-4902" bedId="BED-2">
+    <humidity unit="percent">50</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 PM" sensorId="SN-4815" bedId="BED-2">
+    <humidity unit="percent">50</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 PM" sensorId="SN-4868" bedId="BED-3">
+    <humidity unit="percent">50</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 PM" sensorId="SN-4934" bedId="BED-3">
+    <humidity unit="percent">50</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 PM" sensorId="SN-4790" bedId="BED-4">
+    <humidity unit="percent">50</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 PM" sensorId="SN-4851" bedId="BED-4">
+    <humidity unit="percent">50</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 PM" sensorId="SN-4919" bedId="BED-5">
+    <humidity unit="percent">50</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="2:00 PM" sensorId="SN-4843" bedId="BED-5">
+    <humidity unit="percent">50</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="4:00 PM" sensorId="SN-4821" bedId="BED-1">
+    <humidity unit="percent">46</humidity>
+    <irrigation zone="1" pumpStatus="on">
+      <flowRateGpm unit="gpm">3.57</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="4:00 PM" sensorId="SN-4877" bedId="BED-1">
+    <humidity unit="percent">46</humidity>
+    <irrigation zone="1" pumpStatus="on">
+      <flowRateGpm unit="gpm">3.57</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="4:00 PM" sensorId="SN-4902" bedId="BED-2">
+    <humidity unit="percent">46</humidity>
+    <irrigation zone="1" pumpStatus="on">
+      <flowRateGpm unit="gpm">3.57</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="4:00 PM" sensorId="SN-4815" bedId="BED-2">
+    <humidity unit="percent">46</humidity>
+    <irrigation zone="1" pumpStatus="on">
+      <flowRateGpm unit="gpm">3.57</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="4:00 PM" sensorId="SN-4868" bedId="BED-3">
+    <humidity unit="percent">46</humidity>
+    <irrigation zone="1" pumpStatus="on">
+      <flowRateGpm unit="gpm">3.57</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="4:00 PM" sensorId="SN-4934" bedId="BED-3">
+    <humidity unit="percent">46</humidity>
+    <irrigation zone="1" pumpStatus="on">
+      <flowRateGpm unit="gpm">3.57</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="4:00 PM" sensorId="SN-4790" bedId="BED-4">
+    <humidity unit="percent">46</humidity>
+    <irrigation zone="1" pumpStatus="on">
+      <flowRateGpm unit="gpm">3.57</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="4:00 PM" sensorId="SN-4851" bedId="BED-4">
+    <humidity unit="percent">46</humidity>
+    <irrigation zone="1" pumpStatus="on">
+      <flowRateGpm unit="gpm">3.57</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="4:00 PM" sensorId="SN-4919" bedId="BED-5">
+    <humidity unit="percent">46</humidity>
+    <irrigation zone="1" pumpStatus="on">
+      <flowRateGpm unit="gpm">3.57</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="4:00 PM" sensorId="SN-4843" bedId="BED-5">
+    <humidity unit="percent">46</humidity>
+    <irrigation zone="1" pumpStatus="on">
+      <flowRateGpm unit="gpm">3.57</flowRateGpm>
+    </irrigation>
+  </reading>
+  <reading date="07/15/2026" time="6:00 PM" sensorId="SN-4821" bedId="BED-1">
+    <humidity unit="percent">49</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="6:00 PM" sensorId="SN-4877" bedId="BED-1">
+    <humidity unit="percent">49</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="6:00 PM" sensorId="SN-4902" bedId="BED-2">
+    <humidity unit="percent">49</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="6:00 PM" sensorId="SN-4815" bedId="BED-2">
+    <humidity unit="percent">49</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="6:00 PM" sensorId="SN-4868" bedId="BED-3">
+    <humidity unit="percent">49</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="6:00 PM" sensorId="SN-4934" bedId="BED-3">
+    <humidity unit="percent">49</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="6:00 PM" sensorId="SN-4790" bedId="BED-4">
+    <humidity unit="percent">49</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="6:00 PM" sensorId="SN-4851" bedId="BED-4">
+    <humidity unit="percent">49</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="6:00 PM" sensorId="SN-4919" bedId="BED-5">
+    <humidity unit="percent">49</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="6:00 PM" sensorId="SN-4843" bedId="BED-5">
+    <humidity unit="percent">49</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 PM" sensorId="SN-4821" bedId="BED-1">
+    <humidity unit="percent">54</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 PM" sensorId="SN-4877" bedId="BED-1">
+    <humidity unit="percent">54</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 PM" sensorId="SN-4902" bedId="BED-2">
+    <humidity unit="percent">54</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 PM" sensorId="SN-4815" bedId="BED-2">
+    <humidity unit="percent">54</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 PM" sensorId="SN-4868" bedId="BED-3">
+    <humidity unit="percent">54</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 PM" sensorId="SN-4934" bedId="BED-3">
+    <humidity unit="percent">54</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 PM" sensorId="SN-4790" bedId="BED-4">
+    <humidity unit="percent">54</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 PM" sensorId="SN-4851" bedId="BED-4">
+    <humidity unit="percent">54</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 PM" sensorId="SN-4919" bedId="BED-5">
+    <humidity unit="percent">54</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="8:00 PM" sensorId="SN-4843" bedId="BED-5">
+    <humidity unit="percent">54</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 PM" sensorId="SN-4821" bedId="BED-1">
+    <humidity unit="percent">67</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 PM" sensorId="SN-4877" bedId="BED-1">
+    <humidity unit="percent">67</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 PM" sensorId="SN-4902" bedId="BED-2">
+    <humidity unit="percent">67</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 PM" sensorId="SN-4815" bedId="BED-2">
+    <humidity unit="percent">67</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 PM" sensorId="SN-4868" bedId="BED-3">
+    <humidity unit="percent">67</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 PM" sensorId="SN-4934" bedId="BED-3">
+    <humidity unit="percent">67</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 PM" sensorId="SN-4790" bedId="BED-4">
+    <humidity unit="percent">67</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 PM" sensorId="SN-4851" bedId="BED-4">
+    <humidity unit="percent">67</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 PM" sensorId="SN-4919" bedId="BED-5">
+    <humidity unit="percent">67</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+  <reading date="07/15/2026" time="10:00 PM" sensorId="SN-4843" bedId="BED-5">
+    <humidity unit="percent">67</humidity>
+    <irrigation status="not-recorded-at-batch-time" />
+  </reading>
+</greenhouseReport>
